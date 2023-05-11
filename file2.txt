@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 You pretty pretty girl!!! 
+=======
+You pretty pretty guy!!! 
+Oh stop it you <3 
+>>>>>>> main
