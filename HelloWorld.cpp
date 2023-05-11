@@ -1,6 +1,1 @@
-int main ( ) {
-
-cotikl << "Hello World";
-
-
-}
+int main() { cout << "Hello World"; }
