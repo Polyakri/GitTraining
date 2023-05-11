@@ -1,6 +1,6 @@
 int main ( ) {
 
-cout << "Hello World";
+cotikl << "Hello World";
 
 
 }
